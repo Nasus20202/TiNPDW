@@ -1,0 +1,4 @@
+data.csv
+*.pdf
+__pycache__/
+.venv/

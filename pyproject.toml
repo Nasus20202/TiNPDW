@@ -1,0 +1,14 @@
+[project]
+name = "tinpdw"
+version = "0.1.0"
+description = "Techniki i narzędzia przetwarzania danych wielkoskalowych"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "psycopg2-binary>=2.9.11",
+    "pyspark>=4.1.1",
+    "sqlalchemy>=2.0.48",
+    "tabulate>=0.10.0",
+]
